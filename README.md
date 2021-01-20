@@ -1,11 +1,11 @@
 # Community-Detection-Algorithms
 Compared and contrasted the results achieved by running multiple community detection algorithms on the same network dataset. 
 
-# Algorithm	                      Reference	                
-Girvan-Newman (GN)	              Girvan and Newman (2002)
-Louvain Method (LM)               Blondel et al. (2000)	      
-Fast Greedy Modularity (FGM) 	    Clauset et al. (2004)	 
-Clique Percolation Method (CPM)	  Palla et al. (2005)
+# Algorithm	                      	                
+Girvan-Newman (GN)	              
+Louvain Method (LM)                    
+Fast Greedy Modularity (FGM) 	   
+Clique Percolation Method (CPM)	  
 
 
 # Dataset
